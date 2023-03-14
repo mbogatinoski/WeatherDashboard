@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b590ee95.css",
-    "main.js": "/static/js/main.0918a206.js",
-    "static/media/autonomous-gas.png": "/static/media/autonomous-gas.8125e35a14007fe5be04.png",
-    "static/media/gas-detector.png": "/static/media/gas-detector.3276359fc934ac18b23b.png",
-    "static/media/autonomous-smoke.png": "/static/media/autonomous-smoke.35fe7699054d32d4a609.png",
-    "static/media/conventional-smoke.png": "/static/media/conventional-smoke.66573ff9ca49c6413308.png",
-    "static/media/power-supply.png": "/static/media/power-supply.259c04f8ceb47c89f622.png",
-    "static/media/addressable-smoke.png": "/static/media/addressable-smoke.463c5d29c2c0f5c60cd1.png",
-    "static/media/oe-logo.svg": "/static/media/oe-logo.9267b76093951050113fa578c5feeed4.svg",
-    "index.html": "/index.html",
-    "main.b590ee95.css.map": "/static/css/main.b590ee95.css.map",
-    "main.0918a206.js.map": "/static/js/main.0918a206.js.map"
+    "main.css": "/WeatherDashboard/static/css/main.b590ee95.css",
+    "main.js": "/WeatherDashboard/static/js/main.3ac94831.js",
+    "static/media/autonomous-gas.png": "/WeatherDashboard/static/media/autonomous-gas.8125e35a14007fe5be04.png",
+    "static/media/gas-detector.png": "/WeatherDashboard/static/media/gas-detector.3276359fc934ac18b23b.png",
+    "static/media/autonomous-smoke.png": "/WeatherDashboard/static/media/autonomous-smoke.35fe7699054d32d4a609.png",
+    "static/media/conventional-smoke.png": "/WeatherDashboard/static/media/conventional-smoke.66573ff9ca49c6413308.png",
+    "static/media/power-supply.png": "/WeatherDashboard/static/media/power-supply.259c04f8ceb47c89f622.png",
+    "static/media/addressable-smoke.png": "/WeatherDashboard/static/media/addressable-smoke.463c5d29c2c0f5c60cd1.png",
+    "static/media/oe-logo.svg": "/WeatherDashboard/static/media/oe-logo.9267b76093951050113fa578c5feeed4.svg",
+    "index.html": "/WeatherDashboard/index.html",
+    "main.b590ee95.css.map": "/WeatherDashboard/static/css/main.b590ee95.css.map",
+    "main.3ac94831.js.map": "/WeatherDashboard/static/js/main.3ac94831.js.map"
   },
   "entrypoints": [
     "static/css/main.b590ee95.css",
-    "static/js/main.0918a206.js"
+    "static/js/main.3ac94831.js"
   ]
 }
