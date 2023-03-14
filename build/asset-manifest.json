@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8b81c16.css",
-    "main.js": "/static/js/main.2954bf6c.js",
+    "main.css": "/static/css/main.b590ee95.css",
+    "main.js": "/static/js/main.0918a206.js",
     "static/media/autonomous-gas.png": "/static/media/autonomous-gas.8125e35a14007fe5be04.png",
     "static/media/gas-detector.png": "/static/media/gas-detector.3276359fc934ac18b23b.png",
     "static/media/autonomous-smoke.png": "/static/media/autonomous-smoke.35fe7699054d32d4a609.png",
@@ -10,11 +10,11 @@
     "static/media/addressable-smoke.png": "/static/media/addressable-smoke.463c5d29c2c0f5c60cd1.png",
     "static/media/oe-logo.svg": "/static/media/oe-logo.9267b76093951050113fa578c5feeed4.svg",
     "index.html": "/index.html",
-    "main.f8b81c16.css.map": "/static/css/main.f8b81c16.css.map",
-    "main.2954bf6c.js.map": "/static/js/main.2954bf6c.js.map"
+    "main.b590ee95.css.map": "/static/css/main.b590ee95.css.map",
+    "main.0918a206.js.map": "/static/js/main.0918a206.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8b81c16.css",
-    "static/js/main.2954bf6c.js"
+    "static/css/main.b590ee95.css",
+    "static/js/main.0918a206.js"
   ]
 }
